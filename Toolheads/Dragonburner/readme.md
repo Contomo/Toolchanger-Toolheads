@@ -1,1 +1,1 @@
-[DB](https://github.com/Contomo/Toolchanger-Toolheads/blob/main/Toolheads/Dragonburner/Dragonburner.png?raw=true)
+[DB](https://raw.githubusercontent.com/Contomo/Toolchanger-Toolheads/refs/heads/main/Toolheads/Dragonburner/Dragonburner.png)
