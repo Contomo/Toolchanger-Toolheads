@@ -5,6 +5,12 @@ can just use 3MF and replace tool numbers with toolnumbers
 ![IMG_20240708_201256](https://github.com/user-attachments/assets/f82e1e2b-5e5f-4502-8bc6-b763860467dc)
 ![IMG_20240708_201317](https://github.com/user-attachments/assets/5e048bae-34fd-4183-8484-a3cf24af79ab)
 
+### Anthead
+anthead has extra leds
+stealthchanger logo with rainbow barf diffuser printed in
+tool number lights up via sequins
+nozzle leds
+
 ### Spring steel fix
 a small thing you can add to your HGX to fix spring steel umbilical in.
 ![IMG_20250304_043208](https://github.com/user-attachments/assets/5137780a-9b8f-4e23-98a4-3fdca0cc421f)
